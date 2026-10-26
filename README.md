@@ -1,5 +1,9 @@
 # pytest-api-demo
 
+![api-tests](https://github.com/QLMGLJ/pytest-api-demo/actions/workflows/tests.yml/badge.svg)
+
+> **对应简历**「接口与数据核对」与「自动化实践」两条：分层封装 + 数据驱动 + 契约校验，失败时日志即现场。
+
 基于 `pytest + requests` 的接口自动化练习项目：分层封装、数据驱动、契约校验、CI 一键运行。
 
 ## 结构
